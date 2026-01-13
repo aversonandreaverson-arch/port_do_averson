@@ -1,7 +1,7 @@
 import NavBar from "./componentes/NavBar";
 import Hero from "./componentes/Hero"; 
 import Sobre from "./componentes/Sobre";
-import  Tecnologias  from "./componentes/tecnologias";
+import  Tecnologias  from "./componentes/Tecnologias";
 import  Projetos  from "./componentes/Projetos";
 import Contacto from "./componentes/Contacto";
 
