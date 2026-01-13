@@ -1,5 +1,5 @@
 /* import React from 'react' */
-import ProfilePic from "../assets/fotoPerfil3.jpeg";
+import ProfilePic from "../assets/fotoperfil3.jpeg";
 
 export const Hero = () => {
   return (
