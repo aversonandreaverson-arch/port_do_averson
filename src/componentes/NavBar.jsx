@@ -22,7 +22,10 @@ export const NavBar = () => {
            <a href="https://www.instagram.com/avrson_wamb?igsh=MTZpMTB3Njc3ZmpkMQ==">
               <FaInstagram />
            </a> 
-        <FaGithub />
+           <a href="https://github.com/aversonandreaverson-arch">
+                <FaGithub />           
+           </a>
+        
 
         <a href="https://www.behance.net/versondaniel">
             <FaBehance />
