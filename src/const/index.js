@@ -1,6 +1,6 @@
 import projeto1 from "../assets/siteflores.jpeg";
 import projeto2 from "../assets/port3.jpg";
-import projeto3 from "../assets/ImagemFF.JPEG";
+import projeto3 from "../assets/ImagemFF.jpeg";
 import projeto4 from "../assets/IOLANDA-MAKEUP.jpeg";
 import projeto41 from "../assets/WLCOMEAFRICA.jpeg";
 import projeto42 from "../assets/LBOTIQUE.jpeg";
