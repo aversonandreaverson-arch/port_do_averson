@@ -1,9 +1,9 @@
-import NavBar from "./componentes/NavBar";
-import Hero from "./componentes/Hero"; 
-import Sobre from "./componentes/Sobre";
-import  Tecnologias  from "./componentes/Tecnologias";
-import  Projetos  from "./componentes/Projetos";
-import Contacto from "./componentes/Contacto";
+import NavBar from "./componentes/NavBar.jsx";
+import Hero from "./componentes/Hero.jsx"; 
+import Sobre from "./componentes/Sobre.jsx";
+import  Tecnologias  from "./componentes/Tecnologias.jsx";
+import  Projetos  from "./componentes/Projetos.jsx";
+import Contacto from "./componentes/Contacto.jsx";
 
 function App() {
   return (
