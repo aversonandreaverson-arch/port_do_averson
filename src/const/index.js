@@ -9,7 +9,7 @@ import projeto44 from "../assets/ROSAS.jpeg";
 import projeto45 from "../assets/FORMACAOQUALIDADE.jpeg";
 import projeto31 from "../assets/travell1.png";
 import projeto5 from "../assets/celke.jpeg";
-import { Link } from "lucide-react";
+
 
 export const PROJETOS = [
   {
@@ -33,7 +33,7 @@ export const PROJETOS = [
     imagem: projeto3,
     descricao:
       "Aplicação mobile criada no FlutterFlow para gerenciar tarefas e compromissos de forma prática e intuitiva.",
-    tecnologias: ["FlutterFlow"],
+    tecnologias: ["FlutterFlow" , "FireBase"],
     Link: "https://agenda-de-tarefa-f4m8m4.flutterflow.app/listaTarefas?fbclid=PAb21jcAPGg6RleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAaedLJKqDsbeNGv3sN-5hRao8lvSeyZ9KpIcf9BcnyhAYZwPCw9QX_ImYNx9mA_aem_InNRixKsEp1xq9vxrw2NmQ"
   },
   {
@@ -41,7 +41,7 @@ export const PROJETOS = [
     imagem: projeto31,
     descricao:
       "Aplicativo mobile desenvolvido com FlutterFlow para explorar destinos de viagem, adicionar novos locais e calcular gastos previstos.",
-    tecnologias: ["FlutterFlow"],
+    tecnologias: ["FlutterFlow", "FireBase"],
     Link: "https://travell-app-h7qs68.flutterflow.app"
   },
   {
