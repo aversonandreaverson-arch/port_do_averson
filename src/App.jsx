@@ -17,7 +17,7 @@ function App() {
 
       
         
-        <div className="container mx-auto px-8"> {/* este aqui éa parte do container da logo */}
+        <div className="container mx-auto px-8"> {/* este aqui é a parte do container da logo */}
         
         <NavBar/>
         <Hero />
