@@ -10,7 +10,7 @@ export const Hero = () => {
             <div className="flex flex-col items-center lg:items-start">
                 <h1 className="pb-16 text-6xl font-thin tracking-tight lg:mt-16 lg:text-8xl">Áverson Wambembe</h1> {/* é paraa mexer no nome */}
                 <span className="bg-linear-to-r from-blue-300 via-purple-500 to-blue-500 bg-clip-text text-3xl tracking-tight text-transparent" >
-                    FRONT-END DEVELOPER
+                    Desenvolvedor Front-end
                 </span>
                 <p className="my-2 max-w-xl py-6 font-light tracking-tighter">Desenvolvedor Web & Designer Digital |
 Criação de soluções modernas, funcionais e orientadas a resultados</p>
