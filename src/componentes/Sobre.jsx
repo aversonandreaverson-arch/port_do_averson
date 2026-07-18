@@ -14,9 +14,14 @@ export const Sobre = () => {
          </div>
          <div className="w-full lg:w-1/2">
                 <div className="flex justify-center lg:justify-start"></div>
-                <p className="my-2 max-w-xl py-6" >Sou desenvolvedor web e designer digital, com formação em Gestão de Sistemas Informáticos. Tenho experiência no desenvolvimento de interfaces modernas, responsivas e funcionais, utilizando HTML, CSS, JavaScript, React, Tailwind CSS e Bootstrap.
-No design digital, utilizo ferramentas como Canva para criar layouts visuais consistentes e alinhados à experiência do usuário. Busco constantemente aprimorar minhas habilidades, aplicando boas práticas de código, com foco em usabilidade, desempenho e qualidade visual.
-                       </p>
+                <p className="my-2 max-w-xl py-6" >Sou desenvolvedor Web e designer Gráfico, formado em Gestão de Sistemas Informáticos, apaixonado por criar experiências digitais modernas, responsivas e intuitivas.
+
+Desenvolvo interfaces utilizando HTML, CSS, JavaScript, React, Tailwind CSS e Bootstrap, sempre aplicando boas práticas de desenvolvimento para garantir desempenho, acessibilidade e uma excelente experiência do utilizador.
+
+Atualmente, estou aprofundando os meus conhecimentos em Node.js e Express.js para expandir as minhas competências no desenvolvimento back-end e na construção de aplicações web completas.
+
+A minha experiência como designer contribui diretamente para o desenvolvimento de websites com foco em UI/UX, criando interfaces visualmente atrativas, funcionais e centradas no utilizador. Estou em constante evolução, aprendendo novas tecnologias e procurando desenvolver soluções que unem design, criatividade e tecnologia para entregar produtos digitais de qualidade.
+</p>
                 </div>
             </div>
         </div>
