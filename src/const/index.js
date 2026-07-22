@@ -9,9 +9,20 @@ import projeto44 from "../assets/ROSAS.jpeg";
 import projeto45 from "../assets/FORMACAOQUALIDADE.jpeg";
 import projeto31 from "../assets/travell1.png";
 import projeto5 from "../assets/celke.jpeg";
+import ecra1 from "../assets/ecra1.jpeg";
+import ecra2 from "../assets/ecra2.jpeg";
+
 
 
 export const PROJETOS = [
+   {
+    titulo: "CardPrint - Plataforma de serviços Gráficos",
+    imagem: ecra1,ecra2,
+    
+    descricao:"A CardPrint é uma empresa angolana de serviços gráficos, especializada em soluções de impressão criativa de alta qualidade. Cada projecto é tratado com profissionalismo e atenção aos detalhes.",
+    tecnologias: ["React", "Tailwind CSS", "JavaScript"],
+    Link: "https://cardprint.co.ao/"
+  },
   {
     titulo: "PalmiraFestArt - Plataforma de Vendas",
     imagem: projeto1,
